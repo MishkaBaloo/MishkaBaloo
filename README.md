@@ -13,7 +13,7 @@ I am a passionate and detail-oriented iOS Developer focused on building modern, 
 - 📈 Concurrency: Async/Await, Task, TaskGroup, MainActor, Combine, GCD
 - 🖼️ UI/UX: Kingfisher, AsyncImage, Push & Local Notifications, Figma
 - 🧪 Experienced in setting up A/B tests and using feature flags to deliver scalable product improvements  
-- 🧩 Architecture: MVVM, MVVM + Coordinator. Actively contributing to architecture planning, UI/UX implementation, and sprint estimation  
+- 🧩 Architecture: MVVM, MVVM + Coordinator, contributing to architecture planning and sprint estimation  
 - 🔄 Publishing & CI: App Store Submission, TestFlight
 
 
