@@ -8,12 +8,14 @@
 
 I am a passionate and detail-oriented iOS Developer focused on building modern, performant, and maintainable mobile applications.
 
-- 📱 Strong experience in Swift, SwiftUI, and UIKit  
-- ☁️ Working with Firebase (Authentication, Firestore, Analytics, Remote Config, A/B Testing)  
-- 📈 Skilled in implementing analytics (Firebase, AppsFlyer, Amplitude) and in-app purchase flows  
+- 📱 Languages & Tools: Swift, SwiftUI, Git, GitHub, REST API, Alamofire, Firebase SDK, CocoaPods, Swift Package Manager, CI/CD 
+- ☁️ Storage: Firebase Storage, Firebase Firestore, Core Data, Realm
+- 📈 Concurrency: Async/Await, Task, TaskGroup, MainActor, Combine, GCD
+- 🖼️ UI/UX: Kingfisher, AsyncImage, Push & Local Notifications, Figma
 - 🧪 Experienced in setting up A/B tests and using feature flags to deliver scalable product improvements  
-- 🧩 Actively contributing to architecture planning, UI/UX implementation, and sprint estimation  
-- 🔄 Familiar with Git, CI/CD, Agile/Scrum, and cross-functional team collaboration  
+- 🧩 Architecture: MVVM, MVVM + Coordinator. Actively contributing to architecture planning, UI/UX implementation, and sprint estimation  
+- 🔄 Publishing & CI: App Store Submission, TestFlight
+
 
 <hr style="border: 0.5px solid #ccc;" />
 
