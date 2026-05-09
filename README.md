@@ -67,7 +67,7 @@ struct Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MishkaBaloo&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=3d0000&title_color=8b0000&text_color=555555&icon_color=8b0000&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MishkaBaloo&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=3d0000&title_color=8b0000&text_color=555555&icon_color=8b0000&hide_border=false&count_private=false&include_all_commits=true"/>
 
 <img height="160" src="https://streak-stats.demolab.com?user=MishkaBaloo&theme=dark&background=0a0a0a&border=3d0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&sideLabels=555555&dates=444444&hide_border=false"/>
 
