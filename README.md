@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:0a0a0a&height=220&section=header&text=一隻%20眼%20の%20鬼&fontSize=36&fontColor=8b0000&fontAlignY=35&desc=Mykhailo%20Tokmakov%20%E2%80%94%20iOS%20Developer&descAlignY=58&descColor=444444&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:0a0a0a&height=220&section=header&text=一隻%20眼%20の%20鬼&fontSize=36&fontColor=8b0000&fontAlignY=35&desc=Michael%20Tokmakov%20%E2%80%94%20iOS%20Developer&descAlignY=58&descColor=444444&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -37,11 +37,6 @@ iOS Developer operating in the space between design and engineering.
 I build apps that are **quiet on the surface, precise underneath** —  
 like a ghoul that looks human until it doesn't.
 
-- Architecture-first mindset — **MVVM + Coordinator**  
-- Concurrency done right — **Async/Await, Combine, GCD**  
-- Pixel-aware, performance-obsessed  
-- Shipping to **App Store** since day one  
-
 <br clear="right"/>
 
 ---
@@ -58,36 +53,11 @@ enum Kagune {
 }
 
 struct Developer {
-
     // MARK: - Core
     let name        = "Mykhailo Tokmakov"
     let alias       = "MishkaBaloo"
     let ward        = "iOS"
-    let rating      = "SSS"  // self-assessed
-
-    // MARK: - Languages
-    let languages   = ["Swift", "SwiftUI"]
-
-    // MARK: - Storage
-    let storage     = ["Firebase Firestore", "Firebase Storage",
-                       "Core Data", "Realm"]
-
-    // MARK: - Networking
-    let networking  = ["REST API", "Alamofire",
-                       "Async/Await", "Combine",
-                       "GCD", "TaskGroup", "MainActor"]
-
-    // MARK: - Architecture
-    let arch        = ["MVVM", "MVVM + Coordinator"]
-
-    // MARK: - Tools
-    let tools       = ["Xcode", "Git", "CocoaPods", "SPM",
-                       "TestFlight", "App Store Connect",
-                       "Firebase SDK", "Figma", "CI/CD"]
-
-    // MARK: - Product
-    let product     = ["A/B Testing", "Feature Flags",
-                       "Sprint Estimation", "Architecture Planning"]
+    let rating      = "SSS"
 }
 ```
 
