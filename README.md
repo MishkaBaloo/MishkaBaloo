@@ -31,11 +31,15 @@
 
 ### `「 誰 だ 」— whoami`
 
-<img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishkaBaloo&layout=compact&theme=dark&bg_color=0a0a0a&border_color=3d0000&title_color=8b0000&text_color=555555&hide_border=false&langs_count=6" />
-
 iOS Developer operating in the space between design and engineering.  
 I build apps that are **quiet on the surface, precise underneath** —  
 like a ghoul that looks human until it doesn't.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+</p>
+
+> *"Higanbana (彼岸花) — квітка, що веде через межу."*
 
 <br clear="right"/>
 
@@ -66,8 +70,6 @@ struct Developer {
 ### `「 統計 」— git log`
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MishkaBaloo&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=3d0000&title_color=8b0000&text_color=555555&icon_color=8b0000&hide_border=false&count_private=true&include_all_commits=true"/>
 
 <img height="160" src="https://streak-stats.demolab.com?user=MishkaBaloo&theme=dark&background=0a0a0a&border=3d0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&sideLabels=555555&dates=444444&hide_border=false"/>
 
