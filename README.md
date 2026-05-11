@@ -14,7 +14,6 @@
 
 ```
         ── ❀ 彼岸花 ── red spider lily ── 曼珠沙華 ──
-    flowers that bloom where the living and dead meet
 ```
 
 </div>
@@ -24,8 +23,6 @@
 ### `「 誰 だ 」— whoami`
 
 iOS Developer operating in the space between design and engineering.  
-I build apps that are **quiet on the surface, precise underneath** —  
-like a ghoul that looks human until it doesn't.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
@@ -43,18 +40,6 @@ like a ghoul that looks human until it doesn't.
 // ───────────────────────────────────────────
 //  MishkaBaloo.swift         [ classified ]
 // ───────────────────────────────────────────
-
-enum Kagune {
-    case swift, swiftUI
-}
-
-struct Developer {
-    // MARK: - Core
-    let name        = "Mykhailo Tokmakov"
-    let alias       = "MishkaBaloo"
-    let ward        = "iOS"
-    let rating      = "SSS"
-}
 ```
 
 ---
