@@ -28,7 +28,7 @@ iOS Developer operating in the space between design and engineering.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
 
-> *"Higanbana (彼岸花) — квітка, що веде через межу."*
+> *"Higanbana (彼岸花) — The flower leads across the way."*
 
 <br clear="right"/>
 
