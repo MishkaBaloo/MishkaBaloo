@@ -42,4 +42,3 @@
 <img src="assets/footer.svg" width="100%" alt="Michael Tokmakov — iOS Developer &amp; Software Engineer"/>
 
 </div>
-
