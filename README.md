@@ -2,10 +2,6 @@
 
 <img src="assets/hero.svg" width="100%" alt="Michael Tokmakov — iOS Developer · Software Engineer"/>
 
-<a href="https://t.me/mishkabalooo"><img src="assets/btn-telegram.svg" height="60" alt="Telegram @mishkabalooo"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/MishkaBaloo"><img src="assets/btn-github.svg" height="60" alt="GitHub MishkaBaloo"/></a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg">
